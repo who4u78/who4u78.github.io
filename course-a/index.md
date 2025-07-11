@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Course A"
+title: "외식빅데이터애널리틱스"
 ---
 
-Welcome to Course A. Course materials will appear here.
+
